@@ -1,0 +1,7 @@
+.env
+.DS_Store
+.Rproj.user
+
+/.quarto/
+_book/
+.Rhistory

@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Who Owns Massachusetts Documentation"
+  author: 
+    - "Eric Robsky Huntley, PhD, GISP"
+    - "Milan Chuttani, MCP"
+    - "Asya Aizamn, MCP"
+  date: "6/17/2025"
+  chapters:
+    - index.qmd
+    - methodology.qmd
+    - software.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  
