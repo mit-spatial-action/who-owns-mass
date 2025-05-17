@@ -1,3 +1,9 @@
 [submodule "who-owns-mass-processing"]
 	path = who-owns-mass-processing
 	url = https://github.com/mit-spatial-action/who-owns-mass-processing
+[submodule "who-owns-mass-frontend"]
+	path = who-owns-mass-frontend
+	url = https://github.com/mit-spatial-action/who-owns-mass-frontend
+[submodule "who-owns-mass-backend"]
+	path = who-owns-mass-backend
+	url = https://github.com/mit-spatial-action/who-owns-mass-backend
