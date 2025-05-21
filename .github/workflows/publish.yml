@@ -17,6 +17,9 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Quarto install tinytex
+        run: quarto install tinytex
+
       # From https://github.com/r-lib/actions/tree/v2-branch/setup-r
       # - name: Setup R
       #   uses: r-lib/actions/setup-r@v2
